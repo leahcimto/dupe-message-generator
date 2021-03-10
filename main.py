@@ -1,4 +1,5 @@
 def main():
+  print("Welcome to the python version of duplicate message generator! (v1) This version is incomplete, but is stable. Shortcuts are currently unavailable. All this does so far is asks you for the link and makes the message. \n")
   link = (input('What is the link to the older topic?'))
   print('\n')
   print("Copy the following BBCode and paste it on your post:")
